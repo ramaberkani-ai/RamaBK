@@ -1,0 +1,13 @@
+scene,start_s,end_s,en_at_s,fr_at_s,es_at_s,EN,FR,ES
+intro,0.0,6.0,1.5,2.6,3.7,Hello!,Bonjour !,¡Hola!
+apple,6.0,14.0,8.6,10.3,12.0,apple,la pomme,la manzana
+banana,14.0,22.0,16.6,18.3,20.0,banana,la banane,el plátano
+strawberry,22.0,30.0,24.6,26.3,28.0,strawberry,la fraise,la fresa
+orange,30.0,38.0,32.6,34.3,36.0,orange,l'orange,la naranja
+grapes,38.0,46.0,40.6,42.3,44.0,grapes,le raisin,las uvas
+pear,46.0,54.0,48.6,50.3,52.0,pear,la poire,la pera
+watermelon,54.0,62.0,56.6,58.3,60.0,watermelon,la pastèque,la sandía
+lemon,62.0,70.0,64.6,66.3,68.0,lemon,le citron,el limón
+cherry,70.0,78.0,72.6,74.3,76.0,cherry,la cerise,la cereza
+pineapple,78.0,86.0,80.6,82.3,84.0,pineapple,l'ananas,la piña
+finale,86.0,92.0,87.5,88.6,89.7,Bye!,À bientôt !,¡Hasta pronto!

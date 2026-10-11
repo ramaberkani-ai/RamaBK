@@ -1,0 +1,143 @@
+1
+00:00:01,500 --> 00:00:05,800
+<font color="#FF4B4B">Hello!</font>
+
+2
+00:00:02,600 --> 00:00:05,800
+<font color="#4DA3FF">Bonjour !</font>
+
+3
+00:00:03,700 --> 00:00:05,800
+<font color="#FFD400">¡Hola!</font>
+
+4
+00:00:08,600 --> 00:00:13,800
+<font color="#FF4B4B">apple</font>
+
+5
+00:00:10,300 --> 00:00:13,800
+<font color="#4DA3FF">la pomme</font>
+
+6
+00:00:12,000 --> 00:00:13,800
+<font color="#FFD400">la manzana</font>
+
+7
+00:00:16,600 --> 00:00:21,800
+<font color="#FF4B4B">banana</font>
+
+8
+00:00:18,300 --> 00:00:21,800
+<font color="#4DA3FF">la banane</font>
+
+9
+00:00:20,000 --> 00:00:21,800
+<font color="#FFD400">el plátano</font>
+
+10
+00:00:24,600 --> 00:00:29,800
+<font color="#FF4B4B">strawberry</font>
+
+11
+00:00:26,300 --> 00:00:29,800
+<font color="#4DA3FF">la fraise</font>
+
+12
+00:00:28,000 --> 00:00:29,800
+<font color="#FFD400">la fresa</font>
+
+13
+00:00:32,600 --> 00:00:37,800
+<font color="#FF4B4B">orange</font>
+
+14
+00:00:34,300 --> 00:00:37,800
+<font color="#4DA3FF">l'orange</font>
+
+15
+00:00:36,000 --> 00:00:37,800
+<font color="#FFD400">la naranja</font>
+
+16
+00:00:40,600 --> 00:00:45,800
+<font color="#FF4B4B">grapes</font>
+
+17
+00:00:42,300 --> 00:00:45,800
+<font color="#4DA3FF">le raisin</font>
+
+18
+00:00:44,000 --> 00:00:45,800
+<font color="#FFD400">las uvas</font>
+
+19
+00:00:48,600 --> 00:00:53,800
+<font color="#FF4B4B">pear</font>
+
+20
+00:00:50,300 --> 00:00:53,800
+<font color="#4DA3FF">la poire</font>
+
+21
+00:00:52,000 --> 00:00:53,800
+<font color="#FFD400">la pera</font>
+
+22
+00:00:56,600 --> 00:01:01,800
+<font color="#FF4B4B">watermelon</font>
+
+23
+00:00:58,300 --> 00:01:01,800
+<font color="#4DA3FF">la pastèque</font>
+
+24
+00:01:00,000 --> 00:01:01,800
+<font color="#FFD400">la sandía</font>
+
+25
+00:01:04,600 --> 00:01:09,800
+<font color="#FF4B4B">lemon</font>
+
+26
+00:01:06,300 --> 00:01:09,800
+<font color="#4DA3FF">le citron</font>
+
+27
+00:01:08,000 --> 00:01:09,800
+<font color="#FFD400">el limón</font>
+
+28
+00:01:12,600 --> 00:01:17,800
+<font color="#FF4B4B">cherry</font>
+
+29
+00:01:14,300 --> 00:01:17,800
+<font color="#4DA3FF">la cerise</font>
+
+30
+00:01:16,000 --> 00:01:17,800
+<font color="#FFD400">la cereza</font>
+
+31
+00:01:20,600 --> 00:01:25,800
+<font color="#FF4B4B">pineapple</font>
+
+32
+00:01:22,300 --> 00:01:25,800
+<font color="#4DA3FF">l'ananas</font>
+
+33
+00:01:24,000 --> 00:01:25,800
+<font color="#FFD400">la piña</font>
+
+34
+00:01:27,500 --> 00:01:31,800
+<font color="#FF4B4B">Bye!</font>
+
+35
+00:01:28,600 --> 00:01:31,800
+<font color="#4DA3FF">À bientôt !</font>
+
+36
+00:01:29,700 --> 00:01:31,800
+<font color="#FFD400">¡Hasta pronto!</font>
